@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505070625182",
+    "project_id": "patika-c267d",
+    "storage_bucket": "patika-c267d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505070625182:android:edfb75b2d5ca7f23d6f68f",
+        "android_client_info": {
+          "package_name": "com.bananeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz6mNgldIDi0m3vLX5Nr6n1wlpX2r78jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
